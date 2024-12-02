@@ -1,0 +1,8 @@
+artifacts/
+/build/
+# 忽略测试和脚本目录
+/test/
+/scripts/
+# 忽略 .deps 和 .states 目录
+.deps/
+.states/
